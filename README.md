@@ -26,6 +26,7 @@ This project analyzes large-scale online retail transaction data to uncover cust
 - RFM Customer Segmentation
 
 ## 📁 Project Structure
+Project folder structure for reproducibility and clarity
 ```
 online-retail-analysis/
 │
