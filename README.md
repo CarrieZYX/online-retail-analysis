@@ -1,29 +1,41 @@
 # Online Retail Analysis
 
-This project analyzes large-scale online retail transaction data to uncover customer behavior patterns, revenue concentration, and churn risk.
+## Objective
+This project analyzes large-scale online retail transaction data to understand customer purchasing behavior, identify revenue drivers, and support data-driven decision-making for customer retention and business growth.
+
+---
 
 ## 📊 Project Overview
-- Processed and cleaned over 500,000 transaction records using Python (Pandas)
-- Performed data cleaning, validation, and preprocessing
-- Conducted exploratory data analysis (EDA) to identify key revenue drivers
-- Built an RFM (Recency, Frequency, Monetary) model for customer segmentation
+- Processed and validated **500K+ transaction records** using Python (Pandas) to ensure data quality for analysis  
+- Performed exploratory data analysis across **product, country, and time dimensions**  
+- Built a **customer segmentation framework (RFM model)** to classify customer behavior  
+- Structured outputs into analysis-ready datasets for downstream reporting  
+
+---
 
 ## 🔍 Key Insights
-- Revenue is highly concentrated among a small subset of products and countries
-- Clear seasonality patterns identified in monthly sales trends
-- Approximately 33% of customers are at risk of churn
-- High-value at-risk customers represent critical revenue retention opportunities
+- Revenue is highly concentrated in a small number of products and countries, indicating dependency on key markets  
+- Strong **seasonality patterns** observed in monthly sales trends, impacting demand planning  
+- Identified **33% of customers as at-risk of churn**, including high-value segments  
+- At-risk high-value customers represent significant potential revenue loss  
 
-## 💡 Business Recommendations
-- Prioritize retention strategies for high-value at-risk customers
-- Optimize marketing campaigns based on customer segments
-- Improve inventory planning using seasonal demand patterns
+---
+
+## 💡 Business Implications
+- Enables targeted retention strategies for high-risk customer segments  
+- Supports marketing optimization through customer segmentation  
+- Provides insights for demand forecasting and inventory planning  
+- Demonstrates how transaction data can be leveraged for **customer lifecycle management**
+
+---
 
 ## 🛠️ Tools & Technologies
-- Python (Pandas, NumPy)
-- Jupyter Notebook
-- Data Visualization
-- RFM Customer Segmentation
+- Python (Pandas, NumPy)  
+- Jupyter Notebook  
+- Data Visualization  
+- RFM Customer Segmentation  
+
+---
 
 ## 📁 Project Structure
 
