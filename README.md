@@ -1,7 +1,12 @@
-# Online Retail Analysis
+# Online Retail Customer Segmentation Analysis
+
+## 📈 Customer Segmentation Result
+<img width="602" height="449" alt="Customer Segmentation Chart" src="https://github.com/user-attachments/assets/fe78b372-4e8c-4589-bb68-9ef4a2b59f06" />
+The chart shows the distribution of customers across VIP, Loyal, Regular, and At Risk segments.
 
 ## Objective
-This project analyzes large-scale online retail transaction data to understand customer purchasing behavior, identify revenue drivers, and support data-driven decision-making for customer retention and business growth.
+This project analyzes large-scale online retail transaction data to uncover customer purchasing patterns and identify high-value, regular, and at-risk customers, supporting data-driven decisions in retention, marketing, and revenue growth. 
+The analysis is based on the RFM (Recency, Frequency, Monetary) framework, a widely used approach in customer analytics.
 
 ---
 
@@ -9,23 +14,23 @@ This project analyzes large-scale online retail transaction data to understand c
 - Processed and validated **500K+ transaction records** using Python (Pandas) to ensure data quality for analysis  
 - Performed exploratory data analysis across **product, country, and time dimensions**  
 - Built a **customer segmentation framework (RFM model)** to classify customer behavior  
-- Structured outputs into analysis-ready datasets for downstream reporting  
+- Generated structured datasets to support reporting, decision-making, and business analysis
 
 ---
 
 ## 🔍 Key Insights
-- Revenue is highly concentrated in a small number of products and countries, indicating dependency on key markets  
-- Strong **seasonality patterns** observed in monthly sales trends, impacting demand planning  
-- Identified **33% of customers as at-risk of churn**, including high-value segments  
-- At-risk high-value customers represent significant potential revenue loss  
+- Revenue is highly concentrated in a small number of products and countries, indicating reliance on key markets
+- Clear seasonality patterns observed in monthly sales, impacting demand planning and inventory management
+- Approximately 33% of customers were identified as at risk of churn
+- A portion of at-risk customers still have high monetary value, representing significant potential revenue loss 
 
 ---
 
 ## 💡 Business Implications
-- Enables targeted retention strategies for high-risk customer segments  
-- Supports marketing optimization through customer segmentation  
-- Provides insights for demand forecasting and inventory planning  
-- Demonstrates how transaction data can be leveraged for **customer lifecycle management**
+- Enables targeted retention strategies for high-risk and high-value customers
+- Supports personalized marketing campaigns based on customer segments
+- Improves demand forecasting and inventory planning through trend analysis
+- Demonstrates how transactional data can be transformed into actionable business insights
 
 ---
 
