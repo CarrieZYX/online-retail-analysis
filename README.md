@@ -2,6 +2,7 @@
 
 ## 📈 Customer Segmentation Result
 <img width="602" height="449" alt="Customer Segmentation Chart" src="https://github.com/user-attachments/assets/fe78b372-4e8c-4589-bb68-9ef4a2b59f06" />
+
 The chart shows the distribution of customers across VIP, Loyal, Regular, and At Risk segments.
 
 ## Objective
